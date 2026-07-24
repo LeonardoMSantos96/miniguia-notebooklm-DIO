@@ -1,6 +1,6 @@
 # Projeto: Patton Decision Model (PDM)
 
-## Proposta
+## Proposta 
 
 ### Visão Geral
 
@@ -285,6 +285,11 @@ Ao final do projeto espera-se obter uma base de conhecimento especializada capaz
 > - Demonstrar o uso do NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
 
 Mais do que um repositório de informações, este projeto busca demonstrar como uma Inteligência Artificial pode ser orientada a reconstruir modelos de raciocínio histórico a partir de uma curadoria criteriosa de fontes confiáveis.
+
+
+---
+
+# Desenvolvimento do Projeto
 
 ## Prompt Mestre da Base de Conhecimento
 
