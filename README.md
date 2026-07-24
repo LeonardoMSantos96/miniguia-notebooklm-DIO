@@ -1,6 +1,8 @@
 # Projeto: [Patton Decision Model](https://notebooklm.google.com/notebook/81a7fedc-cae0-46a9-bfdd-51240475a500) (PDM)
 
-## Proposta 
+[Patton Decision Model](./assets/PDM.png)
+
+## Proposta
 
 ### Visão Geral
 
@@ -78,13 +80,12 @@ Todo prompt desenvolvido neste projeto deverá seguir uma arquitetura composta p
 ELEMENTOS
 |---|
 CONTEXTO
-OBJETIVO 
-TAREFA 
+OBJETIVO
+TAREFA
 RESTRIÇÕES
 FORMATO DE SAÍDA
 CRITÉRIOS DE QUALIDADE
 VALIDAÇÃO
-
 
 Essa estrutura busca garantir clareza, contexto, objetividade e consistência nas respostas obtidas.
 
@@ -285,7 +286,6 @@ Ao final do projeto espera-se obter uma base de conhecimento especializada capaz
 > - Demonstrar o uso do NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
 
 Mais do que um repositório de informações, este projeto busca demonstrar como uma Inteligência Artificial pode ser orientada a reconstruir modelos de raciocínio histórico a partir de uma curadoria criteriosa de fontes confiáveis.
-
 
 ---
 
