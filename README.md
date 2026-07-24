@@ -75,21 +75,16 @@ Essa abordagem reduz ambiguidades, facilita a evolução dos prompts ao longo do
 
 Todo prompt desenvolvido neste projeto deverá seguir uma arquitetura composta por sete elementos.
 
-┌──────────────────────────┐
-│ CONTEXTO ----------------│
-├──────────────────────────┤
-│ OBJETIVO ----------------│
-├──────────────────────────┤
-│ TAREFA ------------------│
-├──────────────────────────┤
-│ RESTRIÇÕES --------------│
-├──────────────────────────┤
-│ FORMATO DE SAÍDA --------│
-├──────────────────────────┤
-│ CRITÉRIOS DE QUALIDADE --│
-├──────────────────────────┤
-│ VALIDAÇÃO ---------------│
-└──────────────────────────┘
+ELEMENTOS
+|---|
+CONTEXTO
+OBJETIVO 
+TAREFA 
+RESTRIÇÕES
+FORMATO DE SAÍDA
+CRITÉRIOS DE QUALIDADE
+VALIDAÇÃO
+
 
 Essa estrutura busca garantir clareza, contexto, objetividade e consistência nas respostas obtidas.
 
