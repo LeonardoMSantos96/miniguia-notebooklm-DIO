@@ -1,4 +1,4 @@
-# Projeto: Patton Decision Model (PDM)
+# Projeto: [Patton Decision Model](https://notebooklm.google.com/notebook/81a7fedc-cae0-46a9-bfdd-51240475a500) (PDM)
 
 ## Proposta 
 
