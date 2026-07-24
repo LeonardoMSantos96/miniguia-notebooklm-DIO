@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/PMD.png" width="900">
+<img src="/assets/PDM.png" width="600">
 
 </div>
 
