@@ -230,25 +230,17 @@ _Evidência_
 
 `O que está explicitamente documentado?`
 
----
-
 _Relação_
 
 `Como essa informação se conecta com outros acontecimentos?`
-
----
 
 _Padrão_
 
 `Esse comportamento aparece em outros momentos da trajetória?`
 
----
-
 _Aplicação_
 
 `Como esse padrão pode contribuir para compreender decisões futuras ou responder cenários hipotéticos?`
-
----
 
 ### Benefícios do Framework
 
