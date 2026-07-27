@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/PDM.png" width="600">
+<img src="./assets/PDM.png" width="600">
 
 # Projeto: [Patton Decision Model](https://notebooklm.google.com/notebook/81a7fedc-cae0-46a9-bfdd-51240475a500) (PDM)
 
