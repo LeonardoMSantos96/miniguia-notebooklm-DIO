@@ -28,13 +28,13 @@ Construir uma base de conhecimento especializada sobre _George S. Patton Jr._ ut
 
 ### Objetivos Específicos
 
-> - Organizar fontes históricas confiáveis sobre George S. Patton.
-> - Identificar padrões recorrentes em sua filosofia militar.
-> - Mapear sua evolução como comandante durante a Segunda Guerra Mundial.
-> - Compreender sua relação com aliados, subordinados e adversários.
-> - Analisar decisões marcantes tomadas durante campanhas militares.
-> - Desenvolver prompts capazes de explorar análises históricas profundas.
-> - Validar o NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
+- Organizar fontes históricas confiáveis sobre George S. Patton.
+- Identificar padrões recorrentes em sua filosofia militar.
+- Mapear sua evolução como comandante durante a Segunda Guerra Mundial.
+- Compreender sua relação com aliados, subordinados e adversários.
+- Analisar decisões marcantes tomadas durante campanhas militares.
+- Desenvolver prompts capazes de explorar análises históricas profundas.
+- Validar o NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
 
 ---
 
@@ -44,24 +44,24 @@ As fontes serão selecionadas considerando diferentes perspectivas históricas.
 
 A prioridade será dada a:
 
-_Fontes primárias_
+### Fontes primárias
 
-> - Relatórios militares
-> - Correspondências
-> - Diários
-> - Discursos
+- Relatórios militares
+- Correspondências
+- Diários
+- Discursos
 
-_Fontes secundárias_
+### Fontes secundárias
 
-> - Biografias
-> - Livros acadêmicos
-> - Artigos históricos
+- Biografias
+- Livros acadêmicos
+- Artigos históricos
 
-_Fontes complementares_
+### Fontes complementares
 
-> - Documentários
-> - Entrevistas
-> - Produções audiovisuais
+- Documentários
+- Entrevistas
+- Produções audiovisuais
 
 As fontes serão utilizadas não apenas para responder perguntas factuais, mas para identificar padrões de comportamento e tomada de decisão.
 
@@ -105,9 +105,9 @@ Definir claramente o cenário em que a análise será realizada.
 
 O contexto informa ao modelo:
 
-> - Em qual etapa do projeto estamos.
-> - Qual dimensão do estudo será analisada.
-> - Qual o propósito da interação.
+- Em qual etapa do projeto estamos.
+- Qual dimensão do estudo será analisada.
+- Qual o propósito da interação.
 
 _Exemplos_
 
@@ -131,9 +131,9 @@ O objetivo deve responder:
 
 _Boas práticas_
 
-> - utilizar verbos objetivos;
-> - solicitar apenas um objetivo principal por prompt;
-> - evitar perguntas excessivamente amplas.
+- utilizar verbos objetivos;
+- solicitar apenas um objetivo principal por prompt;
+- evitar perguntas excessivamente amplas.
 
 _Exemplos_
 
@@ -203,16 +203,16 @@ Uma estrutura consistente facilita futuras consultas e comparações entre anál
 
 Dependendo da atividade, poderão ser utilizados:
 
-> - listas;
-> - tabelas;
-> - linhas do tempo;
-> - resumos estruturados;
+- listas;
+- tabelas;
+- linhas do tempo;
+- resumos estruturados;
 
 Sempre que possível, respostas analíticas deverão separar:
 
-> - Evidências;
-> - Inferências;
-> - Hipóteses fundamentadas.
+- Evidências;
+- Inferências;
+- Hipóteses fundamentadas.
 
 ---
 
@@ -220,10 +220,10 @@ Sempre que possível, respostas analíticas deverão separar:
 
 Toda resposta deverá buscar responder não apenas `o que aconteceu`, mas também:
 
-> - Por que aconteceu.
-> - Quais fatores influenciaram a decisão.
-> - Quais padrões esse evento revela.
-> - Como esse padrão aparece em outros momentos da carreira.
+- `Por que aconteceu.`
+- `Quais fatores influenciaram a decisão.`
+- `Quais padrões esse evento revela.`
+- `Como esse padrão aparece em outros momentos da carreira.`
 
 Conclusões importantes somente deverão ser consolidadas quando houver recorrência suficiente em diferentes documentos ou períodos históricos.
 
@@ -253,13 +253,13 @@ _Aplicação_
 
 A utilização de uma estrutura padronizada oferece diversas vantagens durante o desenvolvimento do projeto.
 
-> - Prompts mais claros e objetivos.
-> - Maior consistência entre diferentes análises.
-> - Facilidade para evoluir e reutilizar prompts.
-> - Melhor rastreabilidade das respostas.
-> - Redução de ambiguidades.
-> - Organização do processo de pesquisa.
-> - Aplicação prática dos conceitos de Engenharia de Prompt estudados na DIO.
+- Prompts mais claros e objetivos.
+- Maior consistência entre diferentes análises.
+- Facilidade para evoluir e reutilizar prompts.
+- Melhor rastreabilidade das respostas.
+- Redução de ambiguidades.
+- Organização do processo de pesquisa.
+- Aplicação prática dos conceitos de Engenharia de Prompt estudados na DIO.
 
 Mais do que produzir respostas, este Framework busca transformar o processo de interação com a IA em uma metodologia estruturada de investigação histórica, permitindo que a construção do conhecimento seja progressiva, transparente e fundamentada nas fontes disponíveis.
 
@@ -285,26 +285,14 @@ _Hipóteses Fundamentadas_
 
 Ao final do projeto espera-se obter uma base de conhecimento especializada capaz de:
 
-> - Responder perguntas históricas complexas.
-> - Explicar o contexto das decisões tomadas por Patton.
-> - Identificar padrões de liderança e pensamento estratégico.
-> - Fundamentar cenários hipotéticos utilizando evidências históricas.
-> - Demonstrar o uso do NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
+- Responder perguntas históricas complexas.
+- Explicar o contexto das decisões tomadas por Patton.
+- Identificar padrões de liderança e pensamento estratégico.
+- Fundamentar cenários hipotéticos utilizando evidências históricas.
+- Demonstrar o uso do NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
 
 Mais do que um repositório de informações, este projeto busca demonstrar como uma Inteligência Artificial pode ser orientada a reconstruir modelos de raciocínio histórico a partir de uma curadoria criteriosa de fontes confiáveis.
 
 ---
 
-# Desenvolvimento do Projeto
-
-## Prompt Mestre da Base de Conhecimento
-
-Como etapa inicial do projeto, foi desenvolvido um **Root Prompt** responsável por estabelecer a identidade, a missão e os princípios de funcionamento da base de conhecimento antes da inserção das fontes históricas.
-
-Seu papel não é substituir os _guardrails_ nativos do NotebookLM, mas orientar a forma como o conhecimento deve ser organizado, interpretado e conectado ao longo da pesquisa.
-
-O Root Prompt define o foco analítico da base, incentivando a construção progressiva de um perfil histórico e estratégico de George S. Patton Jr., priorizando relações entre acontecimentos, identificação de padrões recorrentes e contextualização cronológica de sua trajetória.
-
-Além disso, estabelece um padrão de qualidade para todas as respostas, orientando a IA a validar suas análises sob diferentes perspectivas (Evidência, Relação, Padrão e Aplicação) e a distinguir claramente fatos documentados, inferências e hipóteses fundamentadas.
-
-Dessa forma, cada nova interação contribui para expandir uma base de conhecimento consistente, estruturada e progressivamente refinada, transformando documentos históricos em um modelo analítico capaz de apoiar estudos aprofundados e cenários hipotéticos fundamentados.
+# [Desenvolvimento do Projeto](./docs/DEVELOPMENT.md)
