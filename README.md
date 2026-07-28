@@ -310,7 +310,7 @@ Mais do que um repositório de informações, este projeto busca demonstrar como
 
 # [Desenvolvimento do Projeto](./docs/DEVELOPMENT.md)
 
-Criei um arquivo dedicado ao desenvolvimento do projeto, onde link para os demais arquivos e explico como foi o passo a passo.
+Criei um arquivo dedicado ao desenvolvimento do projeto, onde deixo o link para os demais arquivos e explico como foi o passo a passo.
 
 # Campo Hipotético
 
