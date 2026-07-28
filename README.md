@@ -10,6 +10,18 @@
 
 ## Proposta
 
+>
+
+    Explore o uso da Inteligência Artificial como uma verdadeira ferramenta de aprendizagem ativa. Neste projeto prático, você vai aliar pensamento crítico, curadoria de fontes e organização do conhecimento para criar um Caderno Temático no NotebookLM.
+
+>
+
+Ferramentas utilizadas:
+
+- **NotebookLM** (Gemini Notebook)
+- **ChatGPT** - Auxilio na estruturação dos prompts e revisão ortográfica e orientação na busca de material e curadoria de fontes.
+- **Visual Studio Code** - Organização de documentos e estruturação dos arquivos `.md`
+
 ### Visão Geral
 
 Este projeto tem como objetivo explorar o potencial do **Google NotebookLM** como uma plataforma de construção de bases de conhecimento especializadas, utilizando como estudo de caso o General _George S. Patton Jr._, um dos comandantes militares mais influentes da Segunda Guerra Mundial.

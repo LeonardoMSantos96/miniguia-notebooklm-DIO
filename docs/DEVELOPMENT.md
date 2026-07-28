@@ -23,4 +23,21 @@ Especifiquei cada arquivo utilizado na coleta de fontes e alimentação da IA no
 ## Estruturação dos Prompts
 
 Seguindo a estrutura desenvolvida na _"Framework"_, estruturei uma base de prompt que pode ser quase inteiramente replicável, alterando apenas o objetivo, tarefa e restrições.
-Deixei o histórico de aplicação dos prompts no arquivo [PROMPTS.md](./PROMPTS.md)
+Deixei o histórico de aplicação _desse primeiro prompt_ no arquivo [PROMPT BASE.md](./PROMPT BASE.md)
+
+O Resultado do Primeiro prompt foi o estudo inicial da IA, que copiei e enviei para a própria base de Dados do Projeto, como [**Perfil Estratégico Evolutivo**.](PDM%20DNA.md)
+Esse documento serve como "DNA" Do projeto, e a diretriz inicial da IA é buscar referências nesse documento.
+
+## Estúdio
+
+Após a criação do **Perfil Estratégico Evolutivo** que solicitei no prompt Base, solicitei a criação de um vídeo resumo, focado na Cronologia de Patton e sua relevância para o mundo.
+
+Depois disso, solcitei também um mapa mental que, de forma visual, explicasse resumidamente o Perfil Estratégico Evolutivo.
+
+## Mini Guia
+
+Por fim, Estruturei um prompt que solicitou um _mini guia de estudos_ para a IA.
+
+O resultado está no arquivo [MINI GUIDE.md](./MINI%20GUIDE.mda.md)
+
+Os prompts utilizados para a solicitação do mini guia, mapa mental e vídeo resumo estão no arquivo [PROMPTS.MD]()

@@ -50,3 +50,11 @@ Arquivos de Logística, comandos em campanhas ou cadeia hierárquica do Exércit
 - [Logistical Support of the Armies](/PDF's/Logistical%20Support%20of%20the%20Armies,%20Volume%20II.pdf) - [history.army.mil](history.army.mil)
 - [Not Just Lucky](/PDF's/Not%20Just%20Lucky.pdf) - [history.army.mil](history.army.mil)
 - [The Supreme Command](/PDF's/The%20Supreme%20Command.pdf) - [history.army.mil](history.army.mil)
+
+## Deep Research
+
+Após a coleta manual dos documentos e livros descritos, foi realizado um Deep Research utilizando um prompt focado em **Evitar** Qualquer Biografia, focando apenas em conteúdo relacionado à campanhas e estratégias.
+
+O Prompt foi guardado em [DEEP RESEARCH PROMPT.md](./DEEP%20RESEARCH%20PROMPT.md)
+
+Como resultado, o NotebookLM retornou uma série de novas fontas, onde cerca de 12 Foram aproveitadas para compor o banco de Dados.
