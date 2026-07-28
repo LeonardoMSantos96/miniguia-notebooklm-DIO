@@ -322,3 +322,134 @@
     - Priorize informações confirmadas por múltiplas fontes.
 
 >
+
+# Prompt solicitando a análise de um cenário Hipotético
+
+## Patton lutando na Guerra da Coreia - 1950 à 1953
+
+>
+
+        # CONTEXTO
+
+    Utilize exclusivamente o conhecimento presente nesta base documental para realizar uma simulação histórica fundamentada.
+
+    O objetivo não é responder como uma IA criativa, mas elaborar uma hipótese plausível baseada no Perfil Estratégico Evolutivo de George S. Patton Jr.
+
+    ---
+
+    # OBJETIVO
+
+    Considerando os princípios, modelos mentais, filosofia militar, processo decisório e estilo de liderança identificados ao longo deste estudo, analise como Patton provavelmente conduziria uma campanha na Guerra da Coreia, supondo que estivesse em serviço ativo em 1950.
+
+    ---
+
+    # TAREFA
+
+    Desenvolva uma análise hipotética abordando:
+
+    - quais seriam seus objetivos estratégicos;
+    - como avaliaria o terreno e o inimigo;
+    - como organizaria a cadeia de comando;
+    - como empregaria blindados, infantaria e apoio aéreo;
+    - qual seria sua postura diante da logística;
+    - como reagiria às limitações políticas impostas pela ONU;
+    - como conduziria ofensivas e contraofensivas;
+    - quais princípios utilizados na Segunda Guerra provavelmente manteria;
+    - quais aspectos precisaria adaptar ao novo cenário.
+
+    ---
+
+    # RESTRIÇÕES
+
+    Não afirme que essa atuação realmente ocorreu.
+
+    Sempre diferencie:
+
+    - Evidência documental (baseada nas fontes);
+    - Inferência histórica;
+    - Hipótese fundamentada.
+
+    Não atribua tecnologias, doutrinas ou conhecimentos que Patton nunca poderia ter conhecido.
+
+    Considere o contexto político e militar da Guerra da Coreia.
+
+    ---
+
+    # FORMATO DE SAÍDA
+
+    Organize a resposta em:
+
+    1. Contexto da Guerra da Coreia;
+    2. Objetivos estratégicos prováveis;
+    3. Plano operacional hipotético;
+    4. Processo de tomada de decisão;
+    5. Adaptações em relação à Segunda Guerra;
+    6. Possíveis vantagens;
+    7. Possíveis limitações;
+    8. Conclusão.
+
+>
+
+## "E se George S. Patton tivesse nascido na Alemanha e servido na Wehrmacht?"
+
+>
+
+    Crie um vídeo em estilo documentário para YouTube analisando um cenário de história alternativa.
+
+    Tema:
+
+    **"E se George S. Patton tivesse nascido na Alemanha e servido como General da Wehrmacht durante a Segunda Guerra Mundial?"**
+
+    Utilize exclusivamente o Perfil Estratégico Evolutivo reconstruído neste notebook para desenvolver uma hipótese historicamente fundamentada.
+
+    O objetivo não é criar uma fanfic, mas investigar como os padrões de pensamento, liderança, tomada de decisão e filosofia militar de Patton poderiam se manifestar caso ele tivesse servido no Exército Alemão.
+
+    Estruture o vídeo como um documentário histórico, dividindo-o em capítulos.
+
+    Aborde:
+
+    • Como Patton teria sido formado pelo Exército Alemão.
+
+    • Como sua personalidade se adaptaria à doutrina alemã.
+
+    • Sua relação hipotética com o Alto Comando Alemão.
+
+    • Possível relação com Hitler.
+
+    • Relação com comandantes como Rommel, Guderian, Manstein e Model.
+
+    • Como empregaria blindados, infantaria, artilharia e apoio aéreo.
+
+    • Como reagiria às limitações logísticas da Alemanha.
+
+    • Como conduziria campanhas ofensivas.
+
+    • Quais princípios manteria.
+
+    • Quais precisaria abandonar.
+
+    • Em quais campanhas poderia alterar significativamente o resultado operacional.
+
+    • Quais fatores permaneceriam impossíveis de superar, independentemente de sua capacidade como comandante.
+
+    Durante toda a análise, diferencie claramente:
+
+    • Evidências documentais sobre Patton.
+
+    • Inferências baseadas em seu Perfil Estratégico Evolutivo.
+
+    • Hipóteses necessárias para construir o cenário.
+
+    Evite sensacionalismo.
+
+    Não romantize nem glorifique qualquer regime político.
+
+    Sempre contextualize que a análise aborda exclusivamente decisões militares e comportamento estratégico, sem qualquer julgamento favorável sobre governos, ideologias ou crimes de guerra.
+
+    Utilize linguagem envolvente, semelhante a um documentário moderno do YouTube, com narrativa fluida, perguntas provocativas, transições naturais entre capítulos e uma conclusão equilibrada.
+
+    Finalize respondendo à pergunta central:
+
+    **"A presença de George S. Patton na Wehrmacht teria sido suficiente para mudar o resultado da Segunda Guerra Mundial, ou fatores industriais, econômicos, políticos e logísticos continuariam determinando o desfecho do conflito?"**
+
+>

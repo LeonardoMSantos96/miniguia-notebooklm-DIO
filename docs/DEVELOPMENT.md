@@ -40,4 +40,4 @@ Por fim, Estruturei um prompt que solicitou um _mini guia de estudos_ para a IA.
 
 O resultado está no arquivo [MINI GUIDE.md](./MINI%20GUIDE.mda.md)
 
-Os prompts utilizados para a solicitação do mini guia, mapa mental e vídeo resumo estão no arquivo [PROMPTS.MD]()
+Os prompts utilizados para a solicitação do mini guia, mapa mental e vídeo resumo estão no arquivo [PROMPTS.md](PROMPTS.md)

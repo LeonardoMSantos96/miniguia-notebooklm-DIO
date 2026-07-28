@@ -12,7 +12,7 @@
 
 >
 
-    Explore o uso da Inteligência Artificial como uma verdadeira ferramenta de aprendizagem ativa. 
+    Explore o uso da Inteligência Artificial como uma verdadeira ferramenta de aprendizagem ativa.
     Neste projeto prático, você vai aliar pensamento crítico, curadoria de fontes e organização do conhecimento para criar um Caderno Temático no NotebookLM.
 
 >
@@ -309,3 +309,28 @@ Mais do que um repositório de informações, este projeto busca demonstrar como
 ---
 
 # [Desenvolvimento do Projeto](./docs/DEVELOPMENT.md)
+
+Criei um arquivo dedicado ao desenvolvimento do projeto, onde link para os demais arquivos e explico como foi o passo a passo.
+
+# Campo Hipotético
+
+Após a conclusão da proposta do projeto, resolvi testar a capacidade de análise hipotética da IA.
+
+## Patton Vive após 45.
+
+Criei um prompt solicitando à IA para analisar uma situação hipotética onde o General Patton Sobrevive e Luta na Guerra da Coreia em 1950.
+
+A resposta está no Documento [HIPOTETIC.md](HIPOTETIC.md)
+
+## Patton na Wehrmacht - Vídeo Resumo
+
+Por fim, quase em tom de deboche, resolvi solicitar um vídeo resumo com um cenário distópico:
+" E se George S. Patton tivesse nascido na Alemanha e servido na Wehrmacht? "
+
+O resultado está no acervo do Estúdio no projeto.
+
+# Conclusão
+
+_"O conhecimento não nasce da quantidade de informações, mas da capacidade de conectá-las."_
+
+Este projeto não buscou ensinar uma IA sobre George S. Patton Jr.; buscou demonstrar como documentos, contexto e pensamento crítico podem transformar informação em compreensão.
