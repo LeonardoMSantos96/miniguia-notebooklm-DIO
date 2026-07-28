@@ -20,7 +20,7 @@
 Ferramentas utilizadas:
 
 - **NotebookLM** (Gemini Notebook)
-- **ChatGPT** - Auxilio na estruturação dos prompts e revisão ortográfica e orientação na busca de material e curadoria de fontes e Geração da imagem do README.md.
+- **ChatGPT** - Auxilio na estruturação dos prompts e revisão ortográfica e orientação na busca de material e curadoria de fontes e Geração da imagem do `README.md`.
 - **Visual Studio Code** - Organização de documentos e estruturação dos arquivos `.md`
 
 ### Visão Geral
