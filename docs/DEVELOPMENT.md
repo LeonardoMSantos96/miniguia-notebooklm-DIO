@@ -19,3 +19,8 @@ Dessa forma, cada nova interação contribui para expandir uma base de conhecime
 ## Curadoria de Fontes
 
 Especifiquei cada arquivo utilizado na coleta de fontes e alimentação da IA no arquivo [FONTS.md](./FONTS.md)
+
+## Estruturação dos Prompts
+
+Seguindo a estrutura desenvolvida na _"Framework"_, estruturei uma base de prompt que pode ser quase inteiramente replicável, alterando apenas o objetivo, tarefa e restrições.
+Deixei o histórico de aplicação dos prompts no arquivo [PROMPTS.md](./PROMPTS.md)
